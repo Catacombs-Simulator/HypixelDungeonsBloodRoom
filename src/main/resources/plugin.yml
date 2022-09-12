@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: dick
 version: '${version}'
 main: me.dungeons.gk.Main
@@ -8,3 +9,15 @@ description: dick
 website: dick.net
 commands:
   blood:
+=======
+name: dick
+version: '${version}'
+main: me.dungeons.gk.Main
+api-version: 1.13
+load: STARTUP
+authors: [ oLeaf ]
+description: dick
+website: dick.net
+commands:
+  blood:
+>>>>>>> 3257bff (balls)

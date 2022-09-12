@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Manifest-Version: 1.0
 Main-Class: me.dungeons.gk.Main
 
+=======
+Manifest-Version: 1.0
+Main-Class: me.dungeons.gk.Main
+
+>>>>>>> 3257bff (balls)
